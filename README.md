@@ -1,4 +1,4 @@
-# TP Maquinas de free RTOS
+# TP free RTOS
 
 trabajo practico 3 sobre sofware de tiempo real
 
